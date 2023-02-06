@@ -1,0 +1,3 @@
+/Users/feliciachen/Desktop/CLionProjects/FeliciaChenCS3Aportfolio/cmake-build-debug/CMakeFiles/FeliciaChenCS3Aportfolio.dir
+/Users/feliciachen/Desktop/CLionProjects/FeliciaChenCS3Aportfolio/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/feliciachen/Desktop/CLionProjects/FeliciaChenCS3Aportfolio/cmake-build-debug/CMakeFiles/rebuild_cache.dir

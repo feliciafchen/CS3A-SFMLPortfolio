@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FeliciaChenCS3Aportfolio",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FeliciaChenCS3Aportfolio::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FeliciaChenCS3Aportfolio-Debug-9f9f48a10c4279713397.json",
+					"name" : "FeliciaChenCS3Aportfolio",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/feliciachen/Desktop/CLionProjects/FeliciaChenCS3Aportfolio/cmake-build-debug",
+		"source" : "/Users/feliciachen/Desktop/CLionProjects/FeliciaChenCS3Aportfolio"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
