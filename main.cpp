@@ -21,7 +21,7 @@ int main()
     back.enableState(HIDDEN);
 
     ShootaGame shootaGame(window);
-    Screen shootaScreen("shoota", window);
+    Screen shootaScreen("party poopers!", window);
 
     GreenCircle greenCircle;
     Screen greenCircleScreen("green circle", window);
